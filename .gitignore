@@ -1,4 +1,5 @@
 node_modules
 backend/src/config.js
 web/src/config.js
+mobile/src/config.js
 .DS_Store
